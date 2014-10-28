@@ -40,11 +40,23 @@
 }
 
 .common_paragraph {
+	color: #fff;
 	background-color: rgba(0, 0, 0, 0.5);
 	padding-top:5%;
 	padding-bottom:5%;
 	padding-left:5%;
 	padding-right:5%;
+}
+
+.scenario_paragraph {
+	font-weight: normal;
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.5);
+	padding-top:5%;
+	padding-bottom:5%;
+	padding-left:5%;
+	padding-right:5%;
+	text-align: left;
 }
 
 .scenario_list {
