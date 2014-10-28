@@ -57,6 +57,17 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
         }
       }
     })
+
+    .state('tab.scenarios-collect_sample', {
+      url: '/scenarios/collect_sample',
+      views: {
+        'tab-scenarios': {
+          templateUrl: 'templates/scenarios/collect_sample.html',
+          controller: 'CollectSampleCtrl'
+        }
+      }
+    })
+    
     .state('tab.contact', {
       url: '/contact',
       views: {

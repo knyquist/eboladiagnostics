@@ -7,5 +7,8 @@ angular.module('starter.controllers', [])
   $scope.friends = Friends.all();
 })
 
+.controller('CollectSampleCtrl', function($scope) {
+})
+
 .controller('ContactCtrl', function($scope) {
 });
