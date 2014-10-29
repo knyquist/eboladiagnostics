@@ -69,7 +69,7 @@ angular.module('starter', ['ionic',
         }
       }
     })
-    
+
     .state('tab.contact', {
       url: '/contact',
       views: {

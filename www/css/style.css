@@ -30,7 +30,7 @@
 .common_content {
 	color: #fff;
 	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
-	text-align: justify;
+	text-align: left;
 	word-wrap: break-word;
 	padding-top: 5%;
 	padding-right: 5%;
